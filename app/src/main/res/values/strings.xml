@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="app_title">Currency Exchange</string>
+    <string name="app_amount_usa">Amount :</string>
+    <string name="app_rate">Rate :</string>
+    <string name="app_Caclulate">Calculate</string>
+    <string name="app_result">Result :</string>
+    <string name="app_riels">Riels</string>
+    <string name="app_dolar">USA</string>
+    <string name="app_khmer">រៀល</string>
+    <string name="app_usa">ចំនួនលុយដូល្លា</string>
+    <string name="app_riel">ចំនួនលុយរៀល</string>
+</resources>
